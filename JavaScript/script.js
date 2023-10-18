@@ -1,0 +1,1 @@
+alert('Hello! Welcome to LUXES webpage, Inquire now!')
